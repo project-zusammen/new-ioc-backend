@@ -1,2 +1,9 @@
 python-dotenv
 flask
+flask-restful
+flask-SQLAlchemy
+flask-migrate
+flask-cors
+flask-sieve
+requests
+psycopg2
