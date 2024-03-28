@@ -3,3 +3,4 @@
  * Running on http://127.0.0.1:8000
  * Running on http://192.168.0.101:8000
 [2024-03-28 23:36:21,490] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-28 23:36:55,397] INFO in _internal: 127.0.0.1 - - [28/Mar/2024 23:36:55] "GET /student/ HTTP/1.1" 200 -
