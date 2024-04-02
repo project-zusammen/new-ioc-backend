@@ -7,6 +7,8 @@ ENV PYTHONUNBUFFERED 1
 # Install additional tools (e.g., black, pylint, etc.)
 RUN pip install black pylint
 
+## Requirements txt will be installed at post command. 
+# RUN pip install -r ../requirements.txt
 # # Set up a non-root user (optional but recommended)
 # RUN useradd -m vscode
 # USER vscode
